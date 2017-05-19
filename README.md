@@ -6,7 +6,8 @@ The [Visual Recognition][visual_recognition_service] Service uses deep learning 
 
 Give it a try! Click the button below to fork into IBM DevOps Services and deploy your own copy of this application on Bluemix.
 
-[Source code](https://github.com/watson-developer-cloud/visual-recognition-nodejs)
+[Original Forked Source code](https://github.com/watson-developer-cloud/visual-recognition-nodejs)
+[API Documentation](https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/)
 
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/visual-recognition-nodejs)
