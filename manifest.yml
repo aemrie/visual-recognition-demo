@@ -1,10 +1,5 @@
----
-declared-services:
-  visual-recognition-service:
-    label: watson_vision_combined
-    plan: free
 applications:
-- name: visual-recognition-demo
+- name: dog-basic-classifier-by-breed
   path: .
   command: npm start
   memory: 512M
